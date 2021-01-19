@@ -1,0 +1,11 @@
+.fa{
+    color: black;
+    font-size: 35pt;
+}
+.fa:hover{
+    color: gray;
+    width: 40px;
+}
+.footer-copyright{
+    color: white;
+}
